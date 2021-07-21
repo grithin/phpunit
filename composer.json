@@ -1,0 +1,16 @@
+{
+    "name": "grithin/phpunit",
+    "description": "PHPUnit tools",
+    "keywords": [ ""],
+    "homepage": "https://github.com/grithin/phpunit",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "grithin/phpbase": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Grithin\\Phpunit\\": "src/"
+        }
+    }
+}
