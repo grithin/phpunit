@@ -1,7 +1,7 @@
 {
     "name": "grithin/phpunit",
     "description": "PHPUnit tools",
-    "keywords": [ ""],
+    "keywords": [ "phpunit"],
     "homepage": "https://github.com/grithin/phpunit",
     "license": "MIT",
     "require": {
